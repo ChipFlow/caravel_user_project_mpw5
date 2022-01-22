@@ -83,7 +83,7 @@ module corona_cts(
     output [37:0] io_oeb,
     output [37:0] io_out
 );
-    user_project_core_lambdasoc_cts core(
+    user_project_core_mpw5_cts core(
         .vccd1(vccd1),
         .vssd1(vssd1),
         .io_in(io_in),
