@@ -7,7 +7,7 @@ project:
   organization_url: "https://github.com/ChipFlow"
   owner: "gatecat"
   process: "SKY130"
-  project_name: "nmigen_coriolis_soc"
+  project_name: "amaranth_coriolis_soc"
   project_id: "00000000"
   tags:
     - "Coriolis"

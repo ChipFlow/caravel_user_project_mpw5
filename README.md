@@ -1,4 +1,4 @@
-# nMigen+Coriolis Test SoC
+# Amaranth+Coriolis Test SoC
 
 This is a submission of a test SoC for MPW4 built from https://github.com/ChipFlow/mpw4
 
@@ -12,6 +12,6 @@ It contains:
 
 
 Built using:
- - nMigen
+ - Amaranth
  - Yosys+ABC
  - [Coriolis](https://gitlab.lip6.fr/vlsi-eda/coriolis) for PnR; with [PDKMaster](https://gitlab.com/Chips4Makers/PDKMaster) and [flexcell](https://gitlab.com/Chips4Makers/c4m-flexcell) used in place of the standard sky130 cells.
